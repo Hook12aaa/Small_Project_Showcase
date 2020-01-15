@@ -26,7 +26,7 @@ class Email():
 		else:
 			print("Could not expunge as it was not okay.")
 	def ImportMail():
-		Mail = Email("displayemailpi@gmail.com","Raspb3rry","imap.gmail.com","Inbox")
+		Mail = Email("**********@gmail.com","*****assword","imap.gmail.com","Inbox")
 		SplitMail = ""
 		ImportedMail = Mail.ReturnsEmail()
 		for i,Imported in enumerate(ImportedMail):
