@@ -40,5 +40,5 @@ class Email():
 
 if __name__ == '__main__':
 	
-	SendOut = Email("displayemailpi@gmail.com","Raspb3rry","imap.gmail.com","Inbox")
-	SendOut.SendEmail("anton.100chepaldin@gmail.com","displayemailpi@gmail.com")
+	SendOut = Email("********@gmail.com","Password","imap.gmail.com","Inbox")
+	SendOut.SendEmail("********@gmail.com","********@gmail.com")
