@@ -45,6 +45,3 @@ class TCPCommuncator():
 
 
 
-"""
-Email("displayemailpi@gmail.com","Raspb3rry","imap.gmail.com","Inbox")
-"""    
